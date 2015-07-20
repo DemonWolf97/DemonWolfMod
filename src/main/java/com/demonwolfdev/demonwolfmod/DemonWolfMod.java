@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+import com.demonwolfdev.demonwolfmod.init.DemonWolfBlocks;
 import com.demonwolfdev.demonwolfmod.init.DemonWolfItems;
 import com.demonwolfdev.demonwolfmod.proxy.CommonProxy;
 
@@ -21,6 +22,8 @@ public class DemonWolfMod {
 	{
 		DemonWolfItems.init();
 		DemonWolfItems.register();
+		DemonWolfBlocks.init();
+		DemonWolfBlocks.register();
 	}
 	
 	@EventHandler
