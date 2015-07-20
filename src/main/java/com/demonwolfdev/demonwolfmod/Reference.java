@@ -8,4 +8,3 @@ public class Reference {
 	public static final String SERVER_PROXY_CLASS = "com.demonwolfdev.demonwolfmod.proxy.CommonProxy";
 
 }
-
