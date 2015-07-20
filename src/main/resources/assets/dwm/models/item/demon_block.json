@@ -1,5 +1,5 @@
 {
-    "parent": "dwn:block/demon_block",
+    "parent": "dwm:block/demon_block",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],
