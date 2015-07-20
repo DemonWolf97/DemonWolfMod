@@ -5,6 +5,7 @@ import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
+import com.demonwolfdev.demonwolfmod.DemonWolfMod;
 import com.demonwolfdev.demonwolfmod.Reference;
 
 public class DemonWolfItems {
