@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "dwm:blocks/demon_ore"
+        "all": "dwm:blocks/demon_head_block"
     }
 }

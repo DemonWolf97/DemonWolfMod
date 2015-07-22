@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "dwm:items/demon_crystal"
+        "layer0": "dwm:items/demon_head_item"
     },
     "display": {
         "thirdperson": {
