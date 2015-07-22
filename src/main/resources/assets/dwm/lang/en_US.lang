@@ -1,3 +1,6 @@
 item.demon_crystal.name=Demon Crystal
+item.demon_head_item.name=DemonWolfs Head
 tile.demon_ore.name=Demon Ore
 tile.demon_block.name=Demon Block
+tile.demon_head_block.name=DemonWolf Head Block
+itemGroup.tabDemonWolf=DemonWolf Mod

@@ -1,7 +1,7 @@
 package com.demonwolfdev.demonwolfmod.proxy;
 
-import com.demonwolfdev.demonwolfmod.init.DemonWolfItems;
-import com.demonwolfdev.demonwolfmod.init.DemonWolfBlocks;
+import com.demonwolfdev.demonwolfmod.init.blocks.DemonWolfBlocks;
+import com.demonwolfdev.demonwolfmod.init.items.DemonWolfItems;
 
 public class ClientProxy extends CommonProxy{
 	@Override
